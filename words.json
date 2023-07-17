@@ -99,7 +99,7 @@
 	"Can I User",
 	"Sans Head",
 	"Canard",
-	"nth-of(2n + 1)",
+	"nth-of-type(odd)",
 	"*:not(div)",
 	"Sudoku",
 	"Design from Indesign",
